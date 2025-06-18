@@ -1,0 +1,4 @@
+Este es mi portfolio personal hecho con HTML, CSS y un poco de JavaScript. Lo armé para mostrar quién soy, qué hago y los proyectos que vengo desarrollando. 
+En el sitio vas a encontrar una sección sobre mí, mi experiencia como estudiante y freelancer, y varios proyectos que hice con Python. Algunos ejemplos son una app de escritorio con Tkinter para gestionar empleados, un mapa de terremotos en tiempo real usando una API, y un análisis de repos de GitHub.
+El diseño tiene modo claro/oscuro (podés cambiarlo con un botón), animaciones cuando vas bajando, y navegación suave entre secciones.
+Es un proyecto que muestra lo que sé hacer hoy, pero también todo lo que quiero seguir aprendiendo.
